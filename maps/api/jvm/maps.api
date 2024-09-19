@@ -1,0 +1,9 @@
+public final class CustomFibiKt {
+	public static final fun getFibi ()Lkotlin/sequences/Sequence;
+}
+
+public final class FibiProps_jvmKt {
+	public static final fun getFirstElement ()I
+	public static final fun getSecondElement ()I
+}
+

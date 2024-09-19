@@ -36,6 +36,7 @@ kotlin {
 }
 
 android {
+    // TODO: Change name
     namespace = "org.jetbrains.kotlinx.multiplatform.library.template"
     compileSdk = libs.versions.android.compileSdk.get().toInt()
     defaultConfig {
